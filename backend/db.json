@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jose Pereira",
+      "email": "jose@teste.com.br"
+    },
+    {
+      "name": "Artur Costa",
+      "email": "artur@teste.com.br",
+      "id": 3
+    },
+    {
+      "name": "Joao Silva",
+      "email": "joao@teste.com.br",
+      "id": 4
+    },
+    {
+      "name": "Pedro Jose",
+      "email": "pedro@teste.com.br",
+      "id": 5
+    }
+  ]
+}
